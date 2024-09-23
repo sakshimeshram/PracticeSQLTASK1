@@ -1,0 +1,6 @@
+"employeeid","firstname","lastname","email","phonenumber","hiredate","salary","departmentid","isactive","jobtitle"
+1,"Sakshi","Meshram","meshramsakshi24@gmail.com","9850516547","2022-03-15","35000.00",1,True,"SQL Developer"
+2,"Rasik","Husain","husainrasik23@gmail.com","9850586547","2022-02-16","20000.00",2,False,"JAVA Developer"
+3,"Rashi","Deol","rashideol25@gmail.com","9885516547","2023-05-15","15000.00",1,True,"Angular Developer"
+4,"Mrunali","Dahiwale","mrunalidahiwale24@gmail.com","9450516547","2023-05-12","32000.00",3,False,"DBA"
+5,"Ritvit","Chauhan","ritvitchauhan26@gmail.com","9854416547","2024-03-14","30000.00",2,True,"API Developer"
